@@ -1,0 +1,8 @@
+<svg data-bbox="23 20 154 160" viewBox="0 0 200 200" height="200" width="200" xmlns="http://www.w3.org/2000/svg" data-type="color">
+    <g>
+        <path d="M100 20l77 44.4-22 12.8-55 32-77-44.6L100 20z" fill="#ff625b" data-color="1"/>
+        <path d="M177 101.4l-20.7 12 20.7 22.2-77 44.4-77-80.2L98.5 144 23 64.6l77 44.6 55-32 22 24.2z" fill="#232323" data-color="2"/>
+        <path d="M45 87.7L23 99.8 98.5 144 45 87.7z" fill="#ff625b" data-color="1"/>
+        <path d="M45.5 123.3L23 136.2l77 43.8-54.5-56.7z" fill="#ff625b" data-color="1"/>
+    </g>
+</svg>
